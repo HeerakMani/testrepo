@@ -5,10 +5,6 @@ HELLO
 
   HELLO5
 
-  HELLO6
-
-  BYE6
-
 
   ANUP
   HEERAK
