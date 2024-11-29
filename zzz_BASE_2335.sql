@@ -24,16 +24,6 @@ HELLO
 
   PROHORIZON
   VENUE
-<<<<<<< HEAD
-  
-  MOON
-  SUN
-=======
-
-  KAROLBAGH
-
-  NEW DELHI RAILWAY STATION
->>>>>>> cd7903f69e75c121e0c814afc41638a8b57af634
 /*
 SQLyog Community v13.1.7 (64 bit)
 MySQL - 8.1.0 : Database - delwalls_dev
